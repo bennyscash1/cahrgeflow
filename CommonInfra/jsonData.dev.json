@@ -1,0 +1,23 @@
+{
+  "API": {
+    "Email": "eve.holt@reqres.in",
+    "Password": "pistol",
+    "BaseApiUrl": "https://reqres.in/api/"
+
+  },
+  "WebUi": {
+    "WebUrl": "https://qa-automation-assignment.chargeflow.io/login",
+    "WebUserName": "qa@chargeflow.com",
+    "WebPassword": "Password123!"
+  },
+  "Mobile": {
+    "ContactName": "בני",
+    "ContactNumber": "0584102220",
+    "appPackage": "com.google.android.calculator",
+    "appActivity": "com.android.calculator2.Calculator"
+  },
+  "Common": {
+    "Enviorment": "dev"
+  }
+}
+
